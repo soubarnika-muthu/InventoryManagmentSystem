@@ -1,0 +1,53 @@
+﻿{
+  "RiceList": [
+    {
+      "Name": "Basmathi Rice",
+      "Price": 50,
+      "Kg": 3
+    },
+    {
+      "Name": "Samba Rice",
+      "Price": 30,
+      "Kg": 5
+    },
+    {
+      "Name": "Delux Ponny",
+      "Price": 30,
+      "Kg": 4
+    },
+    {
+      "Name": "Fortune Everydsy",
+      "Price": 20,
+      "Kg": 3
+    }
+  ],
+  "PulseList": [
+    {
+      "Name": "Moong Dal",
+      "Price": 70,
+      "Kg": 2
+    },
+    {
+      "Name": "Urad Dal",
+      "Price": 30,
+      "Kg": 3
+    },
+    {
+      "Name": "Bengal Gram Dal",
+      "Price": 20,
+      "Kg": 5
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "Barley Wheat",
+      "Price": 70,
+      "Kg": 2
+    },
+    {
+      "Name": "Millet",
+      "Price": 30,
+      "Kg": 3
+    }
+  ]
+}
